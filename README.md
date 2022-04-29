@@ -1,2 +1,2 @@
 # Muzeo
-#Scrapping des titres des oeuvres vendues par le site.
+#Scraping avec scrapy des titres des oeuvres vendues par le site.
